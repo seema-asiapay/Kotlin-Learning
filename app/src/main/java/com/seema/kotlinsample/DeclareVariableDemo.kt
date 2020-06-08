@@ -1,6 +1,6 @@
 package com.seema.kotlinsample
 
-fun main(array: Array<String>) {
+fun main(args: Array<String>) {
 
     println("Variable in Kotlin")
 
